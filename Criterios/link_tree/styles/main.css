@@ -94,9 +94,10 @@ header {
     align-items: center;
     justify-content: space-between;
     background-image: url("../resources/logo.png");
-    background-size: 100%;
+    background-size: 97%;
     background-position: center;
     background-color: #eeeeee;
+    background-repeat: no-repeat;
     width: 100%;
     max-width: 360px;
     aspect-ratio: 1/1;

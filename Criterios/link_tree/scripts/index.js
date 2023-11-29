@@ -19,9 +19,9 @@ function setPhotos() {
 function setSocials() {
     let WhatsMessage = "Hola he visto tu link tree y quiero saber mas.";
     let social = {
-        "Instagram": "https://www.instagram.com/criterios_rd/",
+        "Instagram": "https://instagram.com/criterios_reposteriadiferente",
         "Whatsapp": `https://wa.me/+573208722922?text=${encodeURI(WhatsMessage)}`,
-        "Facebook": ""
+        "Facebook": "https://www.facebook.com/Criterios.DI"
     }
     let index = 1;
     let linkTree = document.getElementsByClassName("linkTree")[0].children;
